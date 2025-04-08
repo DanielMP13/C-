@@ -1,0 +1,14 @@
+C:\Curso C#\ejemplo18\bin\Debug\net9.0\ejemplo18.exe
+C:\Curso C#\ejemplo18\bin\Debug\net9.0\ejemplo18.deps.json
+C:\Curso C#\ejemplo18\bin\Debug\net9.0\ejemplo18.runtimeconfig.json
+C:\Curso C#\ejemplo18\bin\Debug\net9.0\ejemplo18.dll
+C:\Curso C#\ejemplo18\bin\Debug\net9.0\ejemplo18.pdb
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.AssemblyInfoInputs.cache
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.AssemblyInfo.cs
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.csproj.CoreCompileInputs.cache
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.dll
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\refint\ejemplo18.dll
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.pdb
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ejemplo18.genruntimeconfig.cache
+C:\Curso C#\ejemplo18\obj\Debug\net9.0\ref\ejemplo18.dll

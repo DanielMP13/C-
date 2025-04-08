@@ -1,0 +1,14 @@
+C:\Curso C#\ejemplo15\bin\Debug\net9.0\ejemplo15.exe
+C:\Curso C#\ejemplo15\bin\Debug\net9.0\ejemplo15.deps.json
+C:\Curso C#\ejemplo15\bin\Debug\net9.0\ejemplo15.runtimeconfig.json
+C:\Curso C#\ejemplo15\bin\Debug\net9.0\ejemplo15.dll
+C:\Curso C#\ejemplo15\bin\Debug\net9.0\ejemplo15.pdb
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.AssemblyInfoInputs.cache
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.AssemblyInfo.cs
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.csproj.CoreCompileInputs.cache
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.dll
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\refint\ejemplo15.dll
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.pdb
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ejemplo15.genruntimeconfig.cache
+C:\Curso C#\ejemplo15\obj\Debug\net9.0\ref\ejemplo15.dll

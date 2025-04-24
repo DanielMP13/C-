@@ -1,0 +1,14 @@
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.AssemblyInfoInputs.cache
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.AssemblyInfo.cs
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.csproj.CoreCompileInputs.cache
+C:\Curso C#\ejemploClase\bin\Debug\net9.0\ejemploClase.exe
+C:\Curso C#\ejemploClase\bin\Debug\net9.0\ejemploClase.deps.json
+C:\Curso C#\ejemploClase\bin\Debug\net9.0\ejemploClase.runtimeconfig.json
+C:\Curso C#\ejemploClase\bin\Debug\net9.0\ejemploClase.dll
+C:\Curso C#\ejemploClase\bin\Debug\net9.0\ejemploClase.pdb
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.dll
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\refint\ejemploClase.dll
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.pdb
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ejemploClase.genruntimeconfig.cache
+C:\Curso C#\ejemploClase\obj\Debug\net9.0\ref\ejemploClase.dll

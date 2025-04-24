@@ -1,0 +1,14 @@
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.AssemblyInfoInputs.cache
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.AssemblyInfo.cs
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.csproj.CoreCompileInputs.cache
+C:\Curso C#\ejemploClaseColeccion\bin\Debug\net9.0\ejemploClaseColeccion.exe
+C:\Curso C#\ejemploClaseColeccion\bin\Debug\net9.0\ejemploClaseColeccion.deps.json
+C:\Curso C#\ejemploClaseColeccion\bin\Debug\net9.0\ejemploClaseColeccion.runtimeconfig.json
+C:\Curso C#\ejemploClaseColeccion\bin\Debug\net9.0\ejemploClaseColeccion.dll
+C:\Curso C#\ejemploClaseColeccion\bin\Debug\net9.0\ejemploClaseColeccion.pdb
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.dll
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\refint\ejemploClaseColeccion.dll
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.pdb
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ejemploClaseColeccion.genruntimeconfig.cache
+C:\Curso C#\ejemploClaseColeccion\obj\Debug\net9.0\ref\ejemploClaseColeccion.dll

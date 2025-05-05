@@ -1,0 +1,16 @@
+C:\Curso C#\EjemploControles\EjemploControles\bin\Debug\net8.0-windows\EjemploControles.exe
+C:\Curso C#\EjemploControles\EjemploControles\bin\Debug\net8.0-windows\EjemploControles.deps.json
+C:\Curso C#\EjemploControles\EjemploControles\bin\Debug\net8.0-windows\EjemploControles.runtimeconfig.json
+C:\Curso C#\EjemploControles\EjemploControles\bin\Debug\net8.0-windows\EjemploControles.dll
+C:\Curso C#\EjemploControles\EjemploControles\bin\Debug\net8.0-windows\EjemploControles.pdb
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.Form1.resources
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.csproj.GenerateResource.cache
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.AssemblyInfoInputs.cache
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.AssemblyInfo.cs
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.csproj.CoreCompileInputs.cache
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.dll
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\refint\EjemploControles.dll
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.pdb
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\EjemploControles.genruntimeconfig.cache
+C:\Curso C#\EjemploControles\EjemploControles\obj\Debug\net8.0-windows\ref\EjemploControles.dll
